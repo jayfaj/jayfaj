@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Babajide Fajuke
 - 👀 I’m interested in digital transformation and mobile development
-- 🌱 I’m currently learning Flutter
+- 🌱 Flutter Developer
 - 💞️ I’m looking to collaborate on digital transformation or flutter projects
 - 📫 You can reach out to me on jidefajuke@gmail.com
 
