@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Babajide Fajuke
-- 👀 I’m interested in digital transformation and building software.
-- 🌱 Flutter Developer
-- 💞️ I’m looking to collaborate on digital transformation or flutter projects
+- 👀 I’m looking to collaborate on digital transformation, AI and Power Platform projects
 - 📫 You can reach out to me on jidefajuke@gmail.com
 
 <!---
